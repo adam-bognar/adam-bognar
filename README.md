@@ -1,2 +1,2 @@
-# adam-boganr
+# adam-bognar
 Hello world
