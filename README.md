@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate **software developer** and **comp
 
 - 🎓 I'm currently studying **Computer Engineering** at **BME** (Budapest University of Technology and Economics)
 - 🧠 I'm especially **interested in learning more about AI and Cybersecurity**, and how they shape the future of technology
-- 🌎 I dream of moving to the **US**
 - 💻 I love working on **fullstack apps** (React + ASP.NET Core, Android + Firebase, etc.)
 - 🤝 Currently working on two projects
 - 🎯 Always open to new ideas, collaboration, and freelance opportunities
